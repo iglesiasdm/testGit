@@ -1,0 +1,21 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "Hello\r Hello World\r HAcer MERGE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iglesiasdm/testGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iglesiasdm/testGit/issues"
+  },
+  "homepage": "https://github.com/iglesiasdm/testGit#readme"
+}
